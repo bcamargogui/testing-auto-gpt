@@ -18,3 +18,7 @@ services:
       #- type: bind
       #  source: ./ai_settings.yaml
       #  target: /app/ai_settings.yaml
+
+      # Plugins specifics
+      - ./plugins_config.yaml:/app/plugins_config.yaml
+      - ./plugins:/app/plugins

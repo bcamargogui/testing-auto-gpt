@@ -1,0 +1,3 @@
+Auto-GPT-Plugin-Template-master:
+  config: {} # Configs from the plugin README and installation instructions.
+  enabled: true
